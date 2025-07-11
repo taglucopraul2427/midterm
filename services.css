@@ -1,0 +1,620 @@
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.firstmsg{
+    position: relative;
+    background-color: #D61120;
+    margin-top: 20px;
+    
+}
+.msg1{
+    position: relative;
+    left: 100px;
+    top: 19px;
+    color: white;
+}
+.msg2{
+    position: relative;
+    left: 1270px;
+    bottom: 13px;
+    color: white;
+}
+.globe1{
+    position: relative;
+    left: 78px;
+    bottom: 50px;
+}
+.logofb{
+    position: relative;
+    bottom: 72px;
+    left: 1370px;
+}
+.logotwit{
+    position: relative;
+    bottom: 72px;
+    left: 1380px;
+}
+.logoinsta{
+    position: relative;
+    bottom: 72px;
+    left: 1385px;
+}
+.net{
+    position: relative;
+    font-family: Inter;
+    color: #D4111A;
+    left: 79px;
+    bottom: 70px;
+    font-size: 32px;
+}
+.whole{
+    position: relative;
+    top: 100px;
+}
+.home{
+    position: relative;
+    left: 340px;
+    bottom: 145px;
+    font-size: 20px;
+    font-family: Inter;
+    text-decoration: none;
+    color: black;
+}
+.about{
+    position: relative;
+    left: 470px;
+    bottom: 190px;
+    font-size: 20px;
+    font-family: Inter;
+}
+.services{
+    position: relative;
+    left: 600px;
+    bottom: 290px;
+    font-size: 20px;
+    font-family: Inter;
+}
+.pages{
+    position: relative;
+    left: 750px;
+    bottom: 390px;
+    font-size: 20px;
+    font-family: Inter;
+}
+.shop{
+    position: relative;
+    left: 880px;
+    bottom: 490px;
+    font-size: 20px;
+    font-family: Inter;
+}
+.blog{
+    position: relative;
+    left: 990px;
+    bottom: 590px;
+    font-size: 20px;
+    font-family: Inter;
+}
+.contact{
+    position: relative;
+    left: 1100px;
+    bottom: 690px;
+    font-size: 20px;
+    font-family: Inter;
+}
+.arrow1{
+    position: relative;
+    bottom: 135px;
+    left: 340px;
+}
+.arrow2{
+    position: relative;
+    bottom: 235px;
+    left: 530px;
+}
+.arrow3{
+    position: relative;
+    bottom: 335px;
+    left: 680px;
+}
+.arrow4{
+    position: relative;
+    bottom: 435px;
+    left: 805px;
+}
+.arrow5{
+    position: relative;
+    bottom: 535px;
+    left: 925px;
+}
+.arrow6{
+    position: relative;
+    bottom: 635px;
+    left: 1030px;
+}
+.arrow7{
+    position: relative;
+    bottom: 735px;
+    left: 1170px;
+}
+.secright1{
+    position: relative;
+    left: 1275px;
+    bottom: 790px;
+}
+.secright2{
+    position: relative;
+    bottom: 790px;
+    left: 1290px;
+}
+.secright3{
+    position: relative;
+    bottom: 790px;
+    left: 1310px;
+}
+.img11{
+    position: relative;
+    bottom: 750px;
+    width: 1578px;
+}
+.recta3{
+    position: relative;
+    bottom: 1630px;
+    width: 1578px;
+}
+.all{
+    position: relative;
+    font-size: 115px;
+    font-family: inter;
+    text-align: center;
+    bottom: 2400px;
+    color: white;
+}
+.recta9{
+    position: relative;
+    width: 1578px;
+    bottom: 2280px;
+}
+.Our2{
+    position: relative;
+    bottom: 3200px;
+    text-align: center;
+    font-family: inter;
+    color: #F4222B;
+    font-size: 20px;
+}
+.top{
+    position: relative;
+    bottom: 3220px;
+    text-align: center;
+    font-size: 32px;
+    font-family: inter;
+    color: white;
+}
+.pics{
+    position: relative;
+    bottom: 820px;
+}
+.pics10{
+    position: relative;
+    bottom: 2400px;
+    left: 115px;
+}
+.pics20{
+    position: relative;
+    bottom: 2400px;
+    left: 135px;
+}
+.pics30{
+    position: relative;
+    bottom: 2400px;
+    left: 155px;
+}
+.pics40{
+    position: relative;
+    bottom: 2400px;
+    left: 180px;
+}
+.msg40{
+    position: relative;
+    bottom: 3230px;
+    color: white;
+    font-family: inter;
+    font-size: 19px;
+    text-align: center;
+}
+.choi{
+    position: relative;
+    right: 520px;
+}
+.datu{
+    position: relative;
+    bottom: 65px;
+    right: 180px;
+}
+.king{
+    position: relative;
+    bottom: 130px;
+    left: 155px;
+}
+.presi{
+    position: relative;
+    left: 500px;
+    bottom: 172px;
+}
+.vector10{
+    position: relative;
+    bottom: 2400px;
+    right: 1135px;
+}
+.vector20{
+    position: relative;
+    bottom: 2400px;
+    right: 860px;
+}
+.vector30{
+    position: relative;
+    bottom: 2400px;
+    right: 585px;
+}
+.vector40{
+    position: relative;
+    bottom: 2400px;
+    right: 305px;
+}
+.buttt{
+    position: relative;
+    text-align: center;
+}
+.beon{
+    position: relative;
+    background-color: #D61120;
+    color: white;
+    border: 0;
+    padding: 15px;
+    bottom: 3320px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 5px;
+    font-size: 28px;
+}
+.prod{
+    position: relative;
+    bottom: 3150px;
+}
+.Our40{
+    position: relative;
+    bottom: px;
+    text-align: center;
+    font-family: inter;
+    color: #F4222B;
+    font-size: 20px;
+}
+.stop{
+    position: relative;
+    bottom: px;
+    text-align: center;
+    font-size: 32px;
+    font-family: inter;
+    color: black;
+}
+.bigrec{
+    position: relative;
+    bottom: 2950px;
+}
+.BigRec{
+    position: relative;
+    width: 1575px;
+}
+.rec90{
+    position: relative;
+    bottom: 4180px;
+}
+.rec100{
+    position: relative;
+    left: 100px;
+}
+.rec200{
+    position: relative;
+    left: 90px;
+}
+.rec300{
+    position: relative;
+    left: 80px;
+}
+.rec400{
+    position: relative;
+    left: 70px;
+}
+.salebot{
+    position: relative;
+    bottom: 4550px;
+}
+.bots{
+    position: relative;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: #D61120;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    font-family: inter;
+    left: 40px;
+    font-size: 20px;
+    left: 135px;
+}
+.sale1{
+    position: relative;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: #D61120;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    font-family: inter;
+    font-size: 20px;
+    left: 380px;
+}
+.sale2{
+    position: relative;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: #D61120;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    font-family: inter;
+    font-size: 20px;
+    left: 620px;
+}
+.sale3{
+    position: relative;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: #D61120;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    font-family: inter;
+    left: 860px;
+    font-size: 20px;
+}
+.img30{
+    position: relative;
+    bottom: 4585px;
+}
+.img18{
+    position: relative;
+    left: 150px;
+}
+.img19{
+    position: relative;
+    left: 250px;
+}
+.img20{
+    position: relative;
+    left: 340px;
+    top: 25px;
+}
+.img21{
+    position: relative;
+    left: 450px;
+}
+.bandnet{
+    position: relative;
+    font-family: inter;
+    bottom: 4560px;
+    font-size: 20px;
+}
+.tero{
+    position: relative;
+    left: 140px;
+    bottom: 30px;
+}
+.tero1{
+    position: relative;
+    left: 485px;
+    bottom:75px;
+}
+.tero2{
+    position: relative;
+    left: 840px;
+    bottom: 120px;
+}
+.tero3{
+    position: relative;
+    left: 1170px;
+    bottom: 160px;
+}
+.MSG{
+    position: relative;
+    bottom: 4720px;
+    font-size: 20px;
+    font-family: inter;
+}
+.msgg{
+    position: relative;
+    left: 140px;
+    bottom: 15px;
+}
+.msgg1{
+    position: relative;
+    left: 485px;
+    bottom: 60px;
+}
+.msgg2{
+    position: relative;
+    left: 840px;
+    bottom: 102px;
+}
+.msgg3{
+    position: relative;
+    left: 1170px;
+    bottom: 145px;
+}
+.msgggg{
+    position: relative;
+    color: #616161;
+    bottom: 4912px;
+    font-size: 20px;
+}
+.ms10{
+    position: relative;
+    left: 650px;
+}
+.ms20{
+    position: relative;
+    left: 970px;
+    bottom: 42px;
+}
+.ms30{
+    position: relative;
+    left: 1300px;
+    bottom: 85px;
+}
+.lastpics{
+    position: relative;
+    bottom: 3870px;
+}
+.picsture10{
+    position: relative;
+    width: 774px;
+    bottom: 1000px;
+}
+.picsture20{
+    position: relative;
+    bottom: 994px;
+    right: 790px;
+    width: 786px;
+}
+.rightss{
+    position: relative;
+    bottom: 1790px;
+}
+.aboutinter{
+    position: relative;
+    text-align: center;
+    bottom: 3800px;
+    font-family: inter;
+    color: #F4222B;
+    left: 135px;
+    font-size: 20px;
+    font-weight: 900;
+}
+.family20{
+    position: relative;
+    bottom: 3810px;
+    font-size: 40px;
+    left: 815px;
+    font-family: inter;
+}
+.wevalue100{
+    position: relative;
+    bottom: 3825px;
+    left: 815px;
+    font-size: 20px;
+    font-family: inter;
+}
+.vector50{
+    position: relative;
+    bottom: 3790px;
+    left: 815px;
+}
+.msgkkk{
+    position: relative;
+    bottom: 3790px;
+    left: 815px;
+    font-family: inter;
+    font-size: 24px;
+}
+.receptions{
+    position: relative;
+    bottom: 3810px;
+    left: 815px;
+    font-size: 20px;
+    font-family: inter;
+}
+.lock100{
+    position: relative;
+    bottom: 4020px;
+    left: 1180px;
+}
+.fully200{
+    position: relative;
+    bottom: 4027px;
+    left: 1180px;
+    font-size: 24px;
+    font-family: inter;
+}
+.security100{
+    position: relative;
+    bottom: 4047px;
+    left: 1180px;
+    font-size: 20px;
+    font-family: inter;
+}
+.butttsss{
+    position: relative;
+    text-align: center;
+}
+.beonsss{
+    position: relative;
+    background-color: #D61120;
+    color: white;
+    border: 0;
+    padding: 15px;
+    bottom: 5785px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-radius: 5px;
+    font-size: 28px;
+    left: 185px;
+}
+.lastsssss{
+    position: relative;
+    bottom: 5725px;
+}
+.lastmsg1{
+    position: relative;
+    background-color: #D61120;
+    margin-top: 20px;
+    
+}
+.lastmsg10{
+    position: relative;
+    left: 100px;
+    top: 19px;
+    color: white;
+}
+.lastmsg20{
+    position: relative;
+    left: 1270px;
+    bottom: 13px;
+    color: white;
+}
+.globe10{
+    position: relative;
+    left: 78px;
+    bottom: 50px;
+}
+.logofb100{
+    position: relative;
+    bottom: 72px;
+    left: 1370px;
+}
+.logotwit200{
+    position: relative;
+    bottom: 72px;
+    left: 1380px;
+}
+.logoinsta300{
+    position: relative;
+    bottom: 72px;
+    left: 1385px;
+}

@@ -1,0 +1,720 @@
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.firstmsg{
+    position: relative;
+    background-color: #D61120;
+    margin-top: 20px;
+    
+}
+.msg1{
+    position: relative;
+    left: 100px;
+    top: 19px;
+    color: white;
+}
+.msg2{
+    position: relative;
+    left: 1270px;
+    bottom: 13px;
+    color: white;
+}
+.globe1{
+    position: relative;
+    left: 78px;
+    bottom: 50px;
+}
+.logofb{
+    position: relative;
+    bottom: 72px;
+    left: 1370px;
+}
+.logotwit{
+    position: relative;
+    bottom: 72px;
+    left: 1380px;
+}
+.logoinsta{
+    position: relative;
+    bottom: 72px;
+    left: 1385px;
+}
+.net{
+    position: relative;
+    font-family: Inter;
+    color: #D4111A;
+    left: 79px;
+    bottom: 70px;
+    font-size: 32px;
+}
+.whole{
+    position: relative;
+    top: 100px;
+}
+.home{
+    position: relative;
+    left: 340px;
+    bottom: 133px;
+    font-size: 20px;
+    font-family: Inter;
+}
+.about{
+    position: relative;
+    left: 470px;
+    bottom: 233px;
+    font-size: 20px;
+    font-family: Inter;
+}
+.services{
+    position: relative;
+    left: 570px;
+    bottom: 290px;
+    font-size: 20px;
+    font-family: Inter;
+    text-decoration: none;
+    color: black;
+}
+.pages{
+    position: relative;
+    left: 750px;
+    bottom: 335px;
+    font-size: 20px;
+    font-family: Inter;
+}
+.shop{
+    position: relative;
+    left: 880px;
+    bottom: 435px;
+    font-size: 20px;
+    font-family: Inter;
+}
+.blog{
+    position: relative;
+    left: 990px;
+    bottom: 535px;
+    font-size: 20px;
+    font-family: Inter;
+}
+.contact{
+    position: relative;
+    left: 1100px;
+    bottom: 635px;
+    font-size: 20px;
+    font-family: Inter;
+}
+.arrow1{
+    position: relative;
+    bottom: 180px;
+    left: 395px;
+}
+.arrow2{
+    position: relative;
+    bottom: 280px;
+    left: 530px;
+}
+.arrow3{
+    position: relative;
+    bottom: 280px;
+    left: 570px;
+}
+.arrow4{
+    position: relative;
+    bottom: 380px;
+    left: 805px;
+}
+.arrow5{
+    position: relative;
+    bottom: 480px;
+    left: 925px;
+}
+.arrow6{
+    position: relative;
+    bottom: 580px;
+    left: 1030px;
+}
+.arrow7{
+    position: relative;
+    bottom: 680px;
+    left: 1170px;
+}
+.secright1{
+    position: relative;
+    left: 1275px;
+    bottom: 835px;
+}
+.secright2{
+    position: relative;
+    bottom: 835px;
+    left: 1290px;
+}
+.secright3{
+    position: relative;
+    bottom: 835px;
+    left: 1310px;
+}
+.pic1{
+    position: relative;
+    bottom: 810px;
+    width: 1580px;
+}
+.blur1{
+    position: relative;
+    bottom: 1694px;
+    height: 880px;
+}
+.journey{
+    position: relative;
+    font-size: 80px;
+    bottom: 2550px;
+    left: 150px;
+    font-family: Inter;
+    color: white;
+}
+.speed{
+    position: relative;
+    font-family: Inter;
+    bottom: 2600px;
+    color: white;
+    left: 150px;
+    font-size: 30px;
+}
+.onefive1{
+    position: relative;
+    font-size: 50px;
+    bottom: 2600px;
+    left: 150px;
+    color: #D61120;
+    font-family: Inter;
+}
+.month{
+    position: relative;
+    bottom: 2685px;
+    left: 300px;
+    font-size: 25px;
+    color: white;
+    font-family: inter;
+}
+.butt{
+    position: relative;
+    bottom: 2650px;
+    font-size: 40px;
+    left: 150px;
+    background-color: #D61120;
+    color: white;
+    border: 0;
+    padding: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+    border-radius: 10px;
+}
+.Our{
+    position: relative;
+    bottom: 2375px;
+    text-align: center;
+    font-family: inter;
+    color: #F4222B;
+    font-size: 20px;
+}
+.Enjoy{
+    position: relative;
+    bottom: 2390px;
+    text-align: center;
+    font-size: 32px;
+    font-family: inter;
+}
+.rec1{
+    position: relative;
+    bottom: 2400px;
+    left: 95px;
+}
+.rec2{
+    position: relative;
+    bottom: 2400px;
+    left: 90px;
+}
+.rec3{
+    position: relative;
+    bottom: 2400px;
+    left: 90px;
+}
+.rec4{
+    position: relative;
+    bottom: 2400px;
+    left: 90px;
+}
+.broad1{
+    position: relative;
+    left: 140px;
+    bottom: 2750px;
+}
+.broad2{
+    position: relative;
+    bottom: 2750px;
+    left: 390px;
+}
+.broad3{
+    position: relative;
+    bottom: 2750px;
+    left: 640px;
+}
+.broad4{
+    position: relative;
+    bottom: 2750px;
+    left: 890px;
+}
+.broadmsg{
+    position: relative;
+    font-family: inter;
+    bottom: 2740px;
+    left: 140px;
+}
+.wifimsg{
+    position: relative;
+    font-family: inter;
+    bottom: 2778px;
+    left: 490px;
+    color: white;
+}
+.satemsg{
+    position: relative;
+    font-family: inter;
+    bottom: 2815px;
+    left: 840px;
+}
+.tvmsg{
+    position: relative;
+    font-family: inter;
+    bottom: 2850px;
+    left: 1190px;
+}
+.home1{
+    position: relative;
+    font-family: inter;
+    bottom: 2845px;
+    left: 140px;
+}
+.home2{
+    position: relative;
+    font-family: inter;
+    bottom: 2900px;
+    left: 490px;
+    color: white;
+}
+.home3{
+    position: relative;
+    font-family: inter;
+    bottom: 2960px;
+    left: 840px;
+}
+.home4{
+    position: relative;
+    font-family: inter;
+    bottom: 3015px;
+    left:1190px;
+}
+.rec10{
+    position: relative;
+    bottom: 2740px;
+    left: 240px;
+}
+.img7{
+    position: relative;
+    bottom: 2780px;
+    right: 300px;
+}
+.rec11{
+    position: relative;
+    bottom: 3150px;
+    right: 890px;
+}
+.img9{
+    position: relative;
+    bottom: 2690px;
+    right: 765px;
+}
+.white1{
+    position: relative;
+    bottom: 3365px;
+    left: 285px;
+    padding: 15px;
+    font-size: 24px;
+    font-family: inter;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 5px;
+    border: 0;
+    color: #D61120;
+}
+.img30{
+    position: relative;
+    bottom: 3380px;
+    left: 260px;
+}
+.number1{
+    position: relative;
+    bottom: 3430px;
+    color: white;
+    left: 100px;
+    font-size: 64px;
+    font-family: inter;
+}
+.years{
+    position: relative;
+    bottom: 3485px;
+    left: 100px;
+    font-family: inter;
+    font-size: 20px;
+    color: white;
+}
+.star1{
+    position: relative;
+    bottom: 3485px;
+    left: 100px;
+}
+.trust1{
+    position: relative;
+    bottom: 3525px;
+    left: 250px;
+    color: white;
+    font-family: inter;
+    font-size: 15px;
+}
+.aboutint{
+    position: relative;
+    text-align: center;
+    bottom: 3800px;
+    font-family: inter;
+    color: #F4222B;
+    left: 135px;
+    font-size: 20px;
+    font-weight: 900;
+}
+.weprovide{
+    position: relative;
+    bottom: 3810px;
+    font-size: 40px;
+    left: 815px;
+    font-family: inter;
+}
+.wevalue{
+    position: relative;
+    bottom: 3825px;
+    left: 815px;
+    font-size: 20px;
+    font-family: inter;
+}
+.vector1{
+    position: relative;
+    bottom: 3790px;
+    left: 815px;
+}
+.msgk{
+    position: relative;
+    bottom: 3790px;
+    left: 815px;
+    font-family: inter;
+    font-size: 24px;
+}
+.reception{
+    position: relative;
+    bottom: 3810px;
+    left: 815px;
+    font-size: 20px;
+    font-family: inter;
+}
+.lock1{
+    position: relative;
+    bottom: 4020px;
+    left: 1180px;
+}
+.fully1{
+    position: relative;
+    bottom: 4027px;
+    left: 1180px;
+    font-size: 24px;
+    font-family: inter;
+}
+.security1{
+    position: relative;
+    bottom: 4047px;
+    left: 1180px;
+    font-size: 20px;
+    font-family: inter;
+}
+.check1{
+    position: relative;
+    bottom: 4020px;
+    left: 815px;
+}
+.check2{
+    position: relative;
+    bottom: 3980px;
+    left: 787px;
+}
+.check3{
+    position: relative;
+    bottom: 3940px;
+    left: 759px;
+}
+.expert1{
+    position: relative;
+    bottom: 4069px;
+    left: 850px;
+    font-size: 20px;
+    font-family: inter;
+}
+.expert2{
+    position: relative;
+    bottom: 4076px;
+    left: 850px;
+    font-size: 20px;
+    font-family: inter;
+}
+.expert3{
+    position: relative;
+    bottom: 4077px;
+    left: 850px;
+    font-size: 20px;
+    font-family: inter;
+}
+.pic4{
+    position: relative;
+    bottom: 4070px;
+    left: 940px;
+}
+.pic3{
+    position: relative;
+    bottom: 4057px;
+    left: 820px;
+}
+.pic2{
+    position: relative;
+    bottom: 4070px;
+    left: 690px;
+}
+.pics{
+    position: relative;
+    bottom: 4068px;
+    left: 580px;
+    width: 66px;
+}
+.most{
+    position: relative;
+    bottom: 4140px;
+    left: 1020px;
+    font-family: inter;
+    font-size: 20px;
+}
+.rec13{
+    position: relative;
+    width: 1580px;
+    bottom: 4050px;
+}
+.img10{
+    position: relative;
+    bottom: 4915px;
+    left: 680px;
+}
+.choose{
+    position: relative;
+    bottom: 5800px;
+    font-family: inter;
+    color: #F4222B;
+    left: 100px;
+    font-size: 20px;
+}
+.ultra{
+    position: relative;
+    bottom: 5800px;
+    font-size: 40px;
+    left: 100px;
+    font-family: inter;
+}
+.mbps{
+    position: relative;
+    bottom: 3055px;
+    background-color: #F4222B;
+    color: white;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 0;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: inter;
+    right: 138px;
+}
+.mbps1{
+    position: relative;
+    bottom: 3055px;
+    background-color: white;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 0;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: inter;
+    right: 90px;
+}
+.mbps2{
+    position: relative;
+    bottom: 3055px;
+    background-color: white;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 0;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: inter;
+    right: 40px;
+}
+.num4{
+    position: relative;
+    bottom: 5730px;
+    background-color: white;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 120px;
+    border: 20;
+    border-color: #D4111A;
+    border-radius: 5px;
+    font-size: 18px;
+    font-family: inter;
+    left: 100px;
+    font-size: 70px;
+    color: #F4222B;
+}
+.pesosign{
+    position: relative;
+    bottom: 5730px;
+    right: 185px;
+    background-color: white;
+    border: 0;
+    font-size: 20px;
+    color: #545454;
+    font-family: inter;
+}
+.month10{
+    position: relative;
+    bottom: 5810px;
+    font-size: 20px;
+    left: 290px;
+    font-family: inter;
+    color: #545454;
+}
+.num90{
+    position: relative;
+    bottom: 5970px;
+    padding: 20px;
+    font-size: 18px;
+    font-family: inter;
+    left: 450px;
+    font-size: 70px;
+    color: black;
+}
+.pesosign10{
+    position: relative;
+    bottom: 6095px;
+    left: 455px;
+    border: 0;
+    font-size: 20px;
+    color: #545454;
+    font-family: inter;
+}
+.insfee{
+    position: relative;
+    bottom: 6140px;
+    font-size: 20px;
+    left: 610px;
+    font-family: inter;
+    color: #545454;
+}
+.check20{
+    position: relative;
+    bottom: 6040px;
+    left: 100px;
+}
+.check30{
+    position: relative;
+    bottom: 6010px;
+    left: 70px;
+}
+.check40{
+    position: relative;
+    bottom: 5980px;
+    left: 40px;
+}
+.expert20{
+    position: relative;
+    bottom: 6090px;
+    left: 130px;
+    font-size: 20px;
+    font-family: inter;
+}
+.expert30{
+    position: relative;
+    bottom: 6105px;
+    left: 130px;
+    font-size: 20px;
+    font-family: inter;
+}
+.expert40{
+    position: relative;
+    bottom: 6119px;
+    left: 130px;
+    font-size: 20px;
+    font-family: inter;
+}
+.kokoybald{
+    position: relative;
+    bottom: 6120px;
+    font-size: 38px;
+    font-family: inter;
+    left: 100px;
+}
+.lastmsg1{
+    position: relative;
+    background-color: #D61120;
+    margin-top: 20px;
+    bottom: 6011px;
+}
+.lastmsg{
+    position: relative;
+    left: 100px;
+    top: 19px;
+    color: white;
+}
+.lastmsg2{
+    position: relative;
+    left: 1270px;
+    bottom: 13px;
+    color: white;
+}
+.globe10{
+    position: relative;
+    left: 78px;
+    bottom: 50px;
+}
+.logofb10{
+    position: relative;
+    bottom: 72px;
+    left: 1370px;
+}
+.logotwit10{
+    position: relative;
+    bottom: 72px;
+    left: 1380px;
+}
+.logoinsta10{
+    position: relative;
+    bottom: 72px;
+    left: 1385px;
+}
+.lastnato{
+    position: relative;
+    bottom: 6011px;
+}
